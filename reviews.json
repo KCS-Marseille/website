@@ -2,6 +2,22 @@
   {
     "body": {
       "reviews": [
+		{
+			"reviewId": "AbFvOqnBmRayBioaRAkNLgaI6k01ady84DrYjIDd_q5uYoru2bg8TgMHMPBmAhubPvL_P5Vnh_YPOg",
+			"reviewer": {
+				"profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUVZF0lySuM_ksrrFnH-para6-kKN2dqceZi-fnr-CfiOKQf25X=s120-c-rp-mo-br100",
+				"displayName": "Yves Guiard"
+			},
+			"starRating": "FIVE",
+			"comment": "Excellent ! Dépanneur charmant, efficace, compétent, et de surcroît désintéressé : ayant réglé le problème (il vous suffit d'acheter telle pièce, 9 € sur Amazon) il n'a voulu facturer son intervention (chez lui le diagnostic gratuit) !\n\n(Translated by Google)\nExcellent! Charming, efficient, competent repairman, and on top of that, selfless: having fixed the problem (you just need to buy this part, €9 on Amazon) he didn't want to charge for his intervention (his diagnosis is free)!",
+			"createTime": "2026-02-20T17:38:51.812674Z",
+			"updateTime": "2026-02-20T17:38:51.812674Z",
+			"reviewReply": {
+				"comment": "Avec plaisir, c’est normal :)",
+				"updateTime": "2026-02-20T19:08:24.269905Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqnBmRayBioaRAkNLgaI6k01ady84DrYjIDd_q5uYoru2bg8TgMHMPBmAhubPvL_P5Vnh_YPOg"
+		},
         {
           "reviewId": "AbFvOqlzH47V8hrL_nHDEDITDr-Gfm4VHns_f_V2xrxupKvcZxIAwtSMQz2Hj_lmU3xPbhbHgWo7cw",
           "reviewer": {
@@ -3127,7 +3143,7 @@
         }
       ],
       "averageRating": 5,
-      "totalReviewCount": 276
+      "totalReviewCount": 277
     }
   }
 ]
