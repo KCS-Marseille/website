@@ -19,17 +19,21 @@
 			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqnBmRayBioaRAkNLgaI6k01ady84DrYjIDd_q5uYoru2bg8TgMHMPBmAhubPvL_P5Vnh_YPOg"
 		},
         {
-          "reviewId": "AbFvOqlzH47V8hrL_nHDEDITDr-Gfm4VHns_f_V2xrxupKvcZxIAwtSMQz2Hj_lmU3xPbhbHgWo7cw",
-          "reviewer": {
-            "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKwfKUc0lYy7yaGVcj_xDtVpyNElatbbupXYPerU_Uy6yXtSg=s120-c-rp-mo-br100",
-            "displayName": "Thomas Dubuc"
-          },
-          "starRating": "FIVE",
-          "comment": "Merci pour la réactivité et le professionnalisme dont vous avez fait preuve!\n\n(Translated by Google)\nThank you for your responsiveness and professionalism!",
-          "createTime": "2026-02-20T11:06:09.684358Z",
-          "updateTime": "2026-02-20T11:06:09.684358Z",
-          "name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqlzH47V8hrL_nHDEDITDr-Gfm4VHns_f_V2xrxupKvcZxIAwtSMQz2Hj_lmU3xPbhbHgWo7cw"
-        },
+			"reviewId": "AbFvOqlzH47V8hrL_nHDEDITDr-Gfm4VHns_f_V2xrxupKvcZxIAwtSMQz2Hj_lmU3xPbhbHgWo7cw",
+			"reviewer": {
+				"profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKwfKUc0lYy7yaGVcj_xDtVpyNElatbbupXYPerU_Uy6yXtSg=s120-c-rp-mo-br100",
+				"displayName": "Thomas Dubuc"
+			},
+			"starRating": "FIVE",
+			"comment": "Merci pour la réactivité et le professionnalisme dont vous avez fait preuve!\n\n(Translated by Google)\nThank you for your responsiveness and professionalism!",
+			"createTime": "2026-02-20T11:06:09.684358Z",
+			"updateTime": "2026-02-20T11:06:09.684358Z",
+			"reviewReply": {
+				"comment": "Merci à vous pour votre patience !",
+				"updateTime": "2026-02-20T19:07:54.555086Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqlzH47V8hrL_nHDEDITDr-Gfm4VHns_f_V2xrxupKvcZxIAwtSMQz2Hj_lmU3xPbhbHgWo7cw"
+		},
         {
           "reviewId": "AbFvOqloiaoJBR7O_EYwlQ8BmHpDdw0iLC7tuIUpuuYkXWCkfsfcvS6J4WFcf4Qm9Veudd9hECQT",
           "reviewer": {
