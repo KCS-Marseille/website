@@ -3,6 +3,130 @@
     "body": {
       "reviews": [
 		{
+		 "reviewId": "AbFvOqmbhn8p1G8f8NuAPT3tDg8CyNjS6FnCmEFd-W61tEYFS3v-8TEIO7S5fmEXMfFmBi-b4sb4Xw",
+			"reviewer": {
+				"profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLPWroA_YZ2kT_OuoZASa2ZA9T7TYup4kQY2ibGF0dTwaoo6Q=s120-c-rp-mo-br100",
+				"displayName": "Prescillia Faissolle"
+			},
+			"starRating": "FIVE",
+			"comment": "Merci encore mon imprimante fonctionne a merveille\n\n(Translated by Google)\nThanks again, my printer works perfectly!",
+			"createTime": "2026-03-07T20:40:40.920436Z",
+			"updateTime": "2026-03-07T20:40:40.920436Z",
+			"reviewReply": {
+				"comment": "Merci",
+				"updateTime": "2026-03-07T21:21:20.120463Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqmbhn8p1G8f8NuAPT3tDg8CyNjS6FnCmEFd-W61tEYFS3v-8TEIO7S5fmEXMfFmBi-b4sb4Xw"
+		},
+		{
+			"reviewId": "AbFvOqn-YNdkAozGz3mBW6Efo3LpBBm1OC_ZZQDVdqQ6rt08giylM57TXFJASOE88MkBjdud7x6-7A",
+			"reviewer": {
+				"profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJNr24ZcbzHUc0fog-uDC_N_Q7pAa8Z1Rouj3VUBfANNjD1sg=s120-c-rp-mo-br100",
+				"displayName": "GERARD DENIS BRAUN"
+			},
+			"starRating": "FIVE",
+			"comment": "Excellente prestation. Réparation effectuée rapidement, efficacement et avec gentillesse.\n\n(Translated by Google)\nExcellent service. Repair carried out quickly, efficiently and with kindness.",
+			"createTime": "2026-03-06T17:53:31.573310Z",
+			"updateTime": "2026-03-06T17:53:31.573310Z",
+			"reviewReply": {
+				"comment": "Avec grand plaisir!",
+				"updateTime": "2026-03-07T21:21:11.129090Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqn-YNdkAozGz3mBW6Efo3LpBBm1OC_ZZQDVdqQ6rt08giylM57TXFJASOE88MkBjdud7x6-7A"
+		},
+		{
+			"reviewId": "AbFvOqkbDLEex5BoIYTEKRumfZaTIGSz2myupgOZMT0At26bI2XpBHEBhYgI8jUYKAQaV-FFSCxA",
+			"reviewer": {
+				"profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKFc-7m-rHzwPdz9QoiMG1sAYFmranaC2y8tu2zv-at9T6SiQ=s120-c-rp-mo-br100",
+				"displayName": "Julie Barranger"
+			},
+			"starRating": "FIVE",
+			"comment": "Très bon service, un vrai professionnel  qui prend le temps de vous expliquer le pourquoi du comment. C'est rare! Je referai appel à lui si besoin et le recommanderai à mes amis.\n\n(Translated by Google)\nExcellent service, a true professional who takes the time to explain everything. That's rare! I'll definitely use his services again and recommend him to my friends.",
+			"createTime": "2026-03-06T11:02:05.140775Z",
+			"updateTime": "2026-03-06T11:02:05.140775Z",
+			"reviewReply": {
+				"comment": "Merci à vous 😊",
+				"updateTime": "2026-03-07T21:21:02.299204Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqkbDLEex5BoIYTEKRumfZaTIGSz2myupgOZMT0At26bI2XpBHEBhYgI8jUYKAQaV-FFSCxA"
+		},
+		{
+			"reviewId": "AbFvOqlZMJETjm0Atxf9yq8qAiD7rWcH8inSgudnHtIq_utcu-1FwVppLE9UOKJDvqU2kjEXJ-S5Ow",
+			"reviewer": {
+				"profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUfB0riU71rcbtDSzEnov2fvu7RjvGeILaTevoC1sAC3xtWpmnr=s120-c-rp-mo-br100",
+				"displayName": "Mouss Ameziane"
+			},
+			"starRating": "FIVE",
+			"comment": "Super efficace et abordable\n\n(Translated by Google)\nSuper efficient and affordable",
+			"createTime": "2026-03-03T20:04:19.292998Z",
+			"updateTime": "2026-03-05T17:34:06.879652Z",
+			"reviewReply": {
+				"comment": "Merci !",
+				"updateTime": "2026-03-03T20:30:06.372505Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqlZMJETjm0Atxf9yq8qAiD7rWcH8inSgudnHtIq_utcu-1FwVppLE9UOKJDvqU2kjEXJ-S5Ow"
+		},
+		{
+			"reviewId": "AbFvOqktVLs26ay3sI9uoHMv7ChsK49Jb972THzpG1O9ZT3aJ09JXweYRxD6nV2ib6tmPY4uFbHaOA",
+			"reviewer": {
+				"profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW92bpPOVlQAemQXjiJh9t_ULjGllGrX_oLzlEPIE7gigrrzs67=s120-c-rp-mo-ba3-br100",
+				"displayName": "Elad Asad"
+			},
+			"starRating": "FIVE",
+			"comment": "Excellent travail sur le changement de disque dur de mon pc portable avec en prime le nettoyage approfondie de la machine, ce qui lui a rendu une nouvelle jeunesse\n\n(Translated by Google)\nExcellent work on replacing the hard drive in my laptop, plus a thorough cleaning of the machine, which has given it a new lease of life.",
+			"createTime": "2026-03-04T13:32:58.601365Z",
+			"updateTime": "2026-03-04T13:32:58.601365Z",
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqktVLs26ay3sI9uoHMv7ChsK49Jb972THzpG1O9ZT3aJ09JXweYRxD6nV2ib6tmPY4uFbHaOA"
+		},
+		{
+			"reviewId": "AbFvOqkvbYbGInsHFDeBXsoOiaMdxSX9Dioe0Yp5KH0NUtxi6DJR5lBf_SHuQzhdKFFe4zvLKufhjQ",
+			"reviewer": {
+				"profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWyJ-rQrUt43PRTkM3vIztNtl5xlygdRCOWybq3MhWgMx_f0W29=s120-c-rp-mo-br100",
+				"displayName": "Ambre Jouannet"
+			},
+			"starRating": "FIVE",
+			"comment": "Très bon professionnel et réactif\n\n(Translated by Google)\nA very good professional and responsive",
+			"createTime": "2026-03-03T18:29:06.602113Z",
+			"updateTime": "2026-03-03T18:29:06.602113Z",
+			"reviewReply": {
+				"comment": "Merci",
+				"updateTime": "2026-03-03T20:29:55.090050Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqkvbYbGInsHFDeBXsoOiaMdxSX9Dioe0Yp5KH0NUtxi6DJR5lBf_SHuQzhdKFFe4zvLKufhjQ"
+		},
+		{
+			"reviewId": "AbFvOqm4yQY703K3279jq8DWMCN3W5d5P5GDab5krqEt0AII__xQxrhmg1w83THYpr5_4MT2eRcPsQ",
+			"reviewer": {
+				"profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocImVHlzHwif3vJUtUhJtWub6WPYn3QFzD-f40jEQc3w9_x52g=s120-c-rp-mo-br100",
+				"displayName": "Raphael André"
+			},
+			"starRating": "FIVE",
+			"comment": "Contact très humain avec une personne qui s'y connait et qui est efficace. Pour le coup on peut poser toutes les questions qui nous passent pas la tête sur nos appareils et on nous répond avec transparence, je recommande vivement\n\n(Translated by Google)\nA very personal interaction with a knowledgeable and efficient person. You can ask any question you have about your devices and they answer transparently. I highly recommend them.",
+			"createTime": "2026-03-02T19:04:15.927842Z",
+			"updateTime": "2026-03-02T19:04:15.927842Z",
+			"reviewReply": {
+				"comment": "Merci beaucoup ",
+				"updateTime": "2026-03-03T15:04:46.550616Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqm4yQY703K3279jq8DWMCN3W5d5P5GDab5krqEt0AII__xQxrhmg1w83THYpr5_4MT2eRcPsQ"
+		},
+		{
+			"reviewId": "AbFvOqmk7gP4w7EtOaMY6MgTtBJIAQI6-M7VJHr3MMuGA9bIkT2iRw-qTxjbz7VHSpD0DgsJ64516A",
+			"reviewer": {
+				"profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLtgrAmrCECNnAJK617n4Q3fRzA-kNRG8hEIEfYsQJhyHAFyQ=s120-c-rp-mo-br100",
+				"displayName": "Christia."
+			},
+			"starRating": "FIVE",
+			"comment": "Premiere experience avec Gianni tres satisfaisante\n- Changement du disque\n- Reinstallation des donnees\n- PC nettoye\nDe plus tres sympathique  sans oublier  la cerise sur le gateau tres competent\nMerite de travailler pour nous\n\n(Translated by Google)\nMy first experience with Gianni was very satisfactory.\n- Hard drive replacement\n- Data reinstallation\n- PC cleaning\nMoreover, he was very friendly, and to top it all off, very competent.\nHe deserves to work for us.",
+			"createTime": "2026-02-28T17:24:50.878546Z",
+			"updateTime": "2026-02-28T17:59:47.632235Z",
+			"reviewReply": {
+				"comment": "Un grand merci à vous !",
+				"updateTime": "2026-02-28T19:45:26.079354Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqmk7gP4w7EtOaMY6MgTtBJIAQI6-M7VJHr3MMuGA9bIkT2iRw-qTxjbz7VHSpD0DgsJ64516A"
+		},
+		{
 			"reviewId": "AbFvOqnnnB0QOP2SUotZWWE3IGqsUR4qODVLtmDfwd4fi_sidpUvElLkoyatNHrRED_qH3qyQB9FwQ",
 			"reviewer": {
 				"profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLM_WKCCO_pikZ6k_3XSvu4shUodN06rCvizx4mbZY3qMr4hw=s120-c-rp-mo-br100",
@@ -3271,7 +3395,7 @@
         }
       ],
       "averageRating": 5,
-      "totalReviewCount": 285
+      "totalReviewCount": 293
     }
   }
 ]
