@@ -2,6 +2,150 @@
   {
     "body": {
       "reviews": [
+		{
+			"reviewId": "AbFvOqm1Bup9IDR7dfRGIh4NMYZU_c5RBAluJzOMuu79zQlpvSNT7cJ9JojuXOc5SYbRKAQXQYNB2Q",
+			"reviewer": {
+			  "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXS9Z9dRCepKCv6yyYA2qe_6qeu5l0GmRqTgF5kOPy1wO7VMBA=s120-c-rp-mo-br100",
+			  "displayName": "ZaynixOne"
+			},
+			"starRating": "FIVE",
+			"comment": "Très bon et fiable très efficace",
+			"createTime": "2026-03-12T23:04:25.401545Z",
+			"updateTime": "2026-03-12T23:04:25.401545Z",
+			"reviewReply": {
+			  "comment": "Merci",
+			  "updateTime": "2026-03-12T23:19:05.016475Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqm1Bup9IDR7dfRGIh4NMYZU_c5RBAluJzOMuu79zQlpvSNT7cJ9JojuXOc5SYbRKAQXQYNB2Q"
+		},
+		{
+			"reviewId": "AbFvOqlRrGEkKx1es1hr_TCLFRPbxN-8D8ja9B9pAEwuOmrCswstu7vG4LKytT3UYvLDP19lnir9_w",
+			"reviewer": {
+			  "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXMvP4M_IBu1gbHmvdm18putdYBbl-c-dYdY__b_caP0qjmneqbpw=s120-c-rp-mo-br100",
+			  "displayName": "Danielle S"
+			},
+			"starRating": "FIVE",
+			"comment": "Professionnel, à l'écoute, travail parfait pour un tarif raisonnable, je reviendrai pour qu’il régle tous mes problèmes informatiques",
+			"createTime": "2026-03-12T10:51:36.689614Z",
+			"updateTime": "2026-03-12T12:41:44.234331Z",
+			"reviewReply": {
+			  "comment": "Merci à vous ! N’hésitez pas",
+			  "updateTime": "2026-03-12T23:19:16.876360Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqlRrGEkKx1es1hr_TCLFRPbxN-8D8ja9B9pAEwuOmrCswstu7vG4LKytT3UYvLDP19lnir9_w"
+		},
+		{
+			"reviewId": "AbFvOqnjYV6pbx7zR_6AUg3mNXGloLFTvZBQrmhMUPwJ-awPxWP7_m5CxqSn1QhQ_HpaJ5Juw_bC",
+			"reviewer": {
+			  "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWzKd8HWDaUrYwk7FPl2-6ZMazvh-sUo4E9rg26LD14RTzSUJC1jg=s120-c-rp-mo-br100",
+			  "displayName": "Chloelaylay"
+			},
+			"starRating": "FIVE",
+			"comment": "Changement de l'écran de mon mac nickel. Hyper rapide / super efficace. Service recommandé par la Fnac, prenez rendez-vous avant de vous déplacer.",
+			"createTime": "2026-03-12T07:30:32.221381Z",
+			"updateTime": "2026-03-12T07:30:32.221381Z",
+			"reviewReply": {
+			  "comment": "Merci pour cet avis !",
+			  "updateTime": "2026-03-12T07:37:43.137690Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqnjYV6pbx7zR_6AUg3mNXGloLFTvZBQrmhMUPwJ-awPxWP7_m5CxqSn1QhQ_HpaJ5Juw_bC"
+		},
+		{
+			"reviewId": "AbFvOqn-BfLUht7k2MSAoAip5_TU7-o5zzo2C2KamDmxnQrWxPemZeDNNFj2SR5X5XQuYmWqUlovYw",
+			"reviewer": {
+			  "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUGgovng8-g0VZuzmoz8LZcoh_B0G1PvFA4IFSy8SdFiJps1Sk=s120-c-rp-mo-br100",
+			  "displayName": "Gurval Isambard"
+			},
+			"starRating": "FIVE",
+			"comment": "Un service impeccable et rapide et une disponibilité remarquable.",
+			"createTime": "2026-03-12T05:13:03.993756Z",
+			"updateTime": "2026-03-12T05:13:03.993756Z",
+			"reviewReply": {
+			  "comment": "Merci!",
+			  "updateTime": "2026-03-12T07:37:27.864673Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqn-BfLUht7k2MSAoAip5_TU7-o5zzo2C2KamDmxnQrWxPemZeDNNFj2SR5X5XQuYmWqUlovYw"
+		},
+		{
+			"reviewId": "AbFvOqlHRkHTGhfgSkKMYmWKpE1OwdcOSvSolPMumbnNe0u3COtlNgRfT8xqTBRr4c5Q7jwm6aXy0A",
+			"reviewer": {
+			  "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVTZj2EmU389KXqjDGcPNJTz1EMIwhH4DzhmBpucvsqSKWtAZ3l=s120-c-rp-mo-br100",
+			  "displayName": "Gaspard Leveugle (LeBlind)"
+			},
+			"starRating": "FIVE",
+			"comment": "Ordinateur réparé très rapidement, avec beaucoup de transparence et prix honnête",
+			"createTime": "2026-03-09T21:52:14.401372Z",
+			"updateTime": "2026-03-09T21:52:14.401372Z",
+			"reviewReply": {
+			  "comment": "Merci",
+			  "updateTime": "2026-03-10T05:05:09.075983Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqlHRkHTGhfgSkKMYmWKpE1OwdcOSvSolPMumbnNe0u3COtlNgRfT8xqTBRr4c5Q7jwm6aXy0A"
+		},
+		{
+			"reviewId": "AbFvOqkPnKCedkSVy9K58xZXv-85w5F-Ep5jcIvVyOCv004F3xmTXaQ8jbdJhZQANGwGcykxyvKl",
+			"reviewer": {
+			  "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUA402WVsesIFZaO1LSEfEc19NJDm8KZea9rL2kGp9jAk5Gfzs_=s120-c-rp-mo-br100",
+			  "displayName": "Anaïs Bilon"
+			},
+			"starRating": "FIVE",
+			"comment": "Très compétant, rapide d'exécution, c'est tellement rassurant d'avoir des personnes comme Gianni en qui on peut confier son matériel en toute confiance. Jamais déçu ! Merci pour avoir réparé mon pc en temps record 🙏",
+			"createTime": "2026-03-09T20:58:46.216722Z",
+			"updateTime": "2026-03-09T20:58:46.216722Z",
+			"reviewReply": {
+			  "comment": "Merci beaucoup pour ce commentaire ! ",
+			  "updateTime": "2026-03-09T21:17:35.449211Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqkPnKCedkSVy9K58xZXv-85w5F-Ep5jcIvVyOCv004F3xmTXaQ8jbdJhZQANGwGcykxyvKl"
+		},
+		{
+			"reviewId": "AbFvOqlR-dejQT05dpZzFNBGK1DQKcHfAEKjPfAJ8FDi7nl-iCOcwWGPGnqcxI3bqfSYlyL-WoiO",
+			"reviewer": {
+			  "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocI7dPMqhDDvF5cZKbNhkUzPQOXHrWUeyruRX7s-HUcHFa_I5Q=s120-c-rp-mo-ba2-br100",
+			  "displayName": "Massimo Cannizzaro"
+			},
+			"starRating": "FIVE",
+			"comment": "Merci pour le professionnalisme dont vous avez fait preuve pour la réparation  de mon ordinateur, rapidité, explications clair, prix accessible.  Je recommande vivement.",
+			"createTime": "2026-03-09T19:17:30.256216Z",
+			"updateTime": "2026-03-09T19:17:30.256216Z",
+			"reviewReply": {
+			  "comment": "C'est normal, merci !",
+			  "updateTime": "2026-03-09T19:27:49.815994Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqlR-dejQT05dpZzFNBGK1DQKcHfAEKjPfAJ8FDi7nl-iCOcwWGPGnqcxI3bqfSYlyL-WoiO"
+		},
+		{
+			"reviewId": "AbFvOqlmwvUP3svpMU-RWO6vmZTLdjrZ9g67ZTiAHoUQ77fMAzBt-9RsxOOuO8sGyACfvnkeIOkBag",
+			"reviewer": {
+			  "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVs2J4LwPMtVICHPwZ6NsLgJ6zeWvOwkgJT8tQGcjDCH9mIwc4V=s120-c-rp-mo-br100",
+			  "displayName": "Iam Crystall"
+			},
+			"starRating": "FIVE",
+			"comment": "Très bons conseils et prise en charge de mon PC. Merci !",
+			"createTime": "2026-03-09T13:25:21.837096Z",
+			"updateTime": "2026-03-09T13:25:21.837096Z",
+			"reviewReply": {
+			  "comment": "Merci",
+			  "updateTime": "2026-03-09T19:27:44.961522Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqlmwvUP3svpMU-RWO6vmZTLdjrZ9g67ZTiAHoUQ77fMAzBt-9RsxOOuO8sGyACfvnkeIOkBag"
+		  },
+		{
+			"reviewId": "AbFvOqmFaBcCdxleAJR0dVL6vw7t4AA2x9JaEWKBZa22CjupwNIU-lAZGCsxrS1qsLbsLfqJtv7Vkw",
+			"reviewer": {
+			  "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXh_dFFEDFwMriTISObTvNBGY2qMBlV7JBSsNuBoks_Z_iecICpng=s120-c-rp-mo-br100",
+			  "displayName": "said maoulida"
+			},
+			"starRating": "FIVE",
+			"comment": "Je suis partie chez plusieurs professionnels ils ont pas pu trouver la bonne pièce pour reparer mon ordinateur 💻 et ici il a réussi mon pc et devenu comme neuf.",
+			"createTime": "2026-03-09T10:34:55.690196Z",
+			"updateTime": "2026-03-09T10:34:55.690196Z",
+			"reviewReply": {
+			  "comment": "Merci pour votre confiance",
+			  "updateTime": "2026-03-09T19:27:13.218580Z"
+			},
+			"name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/AbFvOqmFaBcCdxleAJR0dVL6vw7t4AA2x9JaEWKBZa22CjupwNIU-lAZGCsxrS1qsLbsLfqJtv7Vkw"
+		}
         {
           "reviewId": "AbFvOqmbhn8p1G8f8NuAPT3tDg8CyNjS6FnCmEFd-W61tEYFS3v-8TEIO7S5fmEXMfFmBi-b4sb4Xw",
           "reviewer": {
@@ -3394,7 +3538,7 @@
         }
       ],
       "averageRating": 5,
-      "totalReviewCount": 293
+      "totalReviewCount": 302
     }
   }
 ]
