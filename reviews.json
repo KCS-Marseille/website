@@ -3,6 +3,141 @@
     "body": {
       "reviews": [
         {
+          "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xGUFVXdHNkV1JYZGxnelFXRXRSMHh3UkU4M1MyYxAB",
+          "reviewer": {
+            "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXV3DY2nCyARDTZNn9juj1ugOuR1vRc-sjslozKBhljkjqAkjY5=s1920-c-rp-mo-ba12-br100",
+            "displayName": "Issam"
+          },
+          "starRating": "FIVE",
+          "createTime": "2026-07-12T12:57:04.323Z",
+          "updateTime": "2026-07-12T12:57:04.323Z",
+          "comment": "Merci d’avoir accepté de prendre en charge mon pc un dimanche, initiatives au top pour les mises a jour\nBon courage pour la suite 👍",
+          "reviewReply": {
+            "comment": "Avec plaisir merci beaucoup pour ce commentaire !",
+            "updateTime": "2026-07-12T13:15:41.000Z",
+            "reviewReplyState": "APPROVED"
+          },
+          "name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGUFVXdHNkV1JYZGxnelFXRXRSMHh3UkU4M1MyYxAB"
+        },
+        {
+          "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25SVFRYcFlZWEZLVUhWRlJqaEliMU42VjFKblRuYxAB",
+          "reviewer": {
+            "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVsThuDgViYvSSeueYQdy5oDrA9Z1abR9IvFNh2lflh8joy45qW=s1920-c-rp-mo-br100",
+            "displayName": "Francis Benoit"
+          },
+          "starRating": "FIVE",
+          "createTime": "2026-07-10T16:46:56.004Z",
+          "updateTime": "2026-07-10T16:46:56.004Z",
+          "comment": "Pro et efficace n, rien a dire allez y les yeux fermés.",
+          "reviewReply": {
+            "comment": "Merci à vous !",
+            "updateTime": "2026-07-10T17:15:27.000Z",
+            "reviewReplyState": "APPROVED"
+          },
+          "name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SVFRYcFlZWEZLVUhWRlJqaEliMU42VjFKblRuYxAB"
+        },
+        {
+          "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tWVU9FeHBiR3BhZEZseU5tVmlZVXhNVnpJM01tYxAB",
+          "reviewer": {
+            "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWWe73wx5ognyuBsobl3uXkV-LXfKJ4HxuojZ1MuXUdf76KagZW=s1920-c-rp-mo-br100",
+            "displayName": "Musa3945"
+          },
+          "starRating": "FIVE",
+          "createTime": "2026-07-10T13:53:26.824Z",
+          "updateTime": "2026-07-10T13:53:26.824Z",
+          "comment": "Super et rapide problème de surchauffe réglé en 10 minutes je recommande fortement",
+          "reviewReply": {
+            "comment": "Merci !",
+            "updateTime": "2026-07-10T14:08:11.000Z",
+            "reviewReplyState": "APPROVED"
+          },
+          "name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWVU9FeHBiR3BhZEZseU5tVmlZVXhNVnpJM01tYxAB"
+        },
+        {
+          "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21oTE9XVjJjQzB4UVU0dFJtSTJWV1JDTmt0VGRHYxAB",
+          "reviewer": {
+            "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJQ9xWq0kcN8r776KmANTLoTmYcHI4xH3qQKRpOtZ5TV7KmHg=s1920-c-rp-mo-br100",
+            "displayName": "Dave"
+          },
+          "starRating": "FIVE",
+          "createTime": "2026-07-06T17:33:13.190Z",
+          "updateTime": "2026-07-06T17:33:13.190Z",
+          "reviewReply": {
+            "comment": "Merci",
+            "updateTime": "2026-07-06T17:45:00.000Z",
+            "reviewReplyState": "APPROVED"
+          },
+          "name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oTE9XVjJjQzB4UVU0dFJtSTJWV1JDTmt0VGRHYxAB"
+        },
+        {
+          "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT205U1N6aFRkVGQzZUdaNlpHdFVhRTQ1WlZoSlIyYxAB",
+          "reviewer": {
+            "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVpvCIwM6RdNSIGyduZfYlaQS7LUPhJjIUbPxVmR2HUeZ-d3DVo=s1920-c-rp-mo-br100",
+            "displayName": "Francoise Champetier"
+          },
+          "starRating": "FIVE",
+          "createTime": "2026-07-05T19:59:21.933Z",
+          "updateTime": "2026-07-05T19:59:21.933Z",
+          "comment": "Tres disponible et patient surtout très efficace\nIl m a guidée par telephone pour un problème d imprimante en quelques minutes  alors que j avais galère tout l après midi",
+          "reviewReply": {
+            "comment": "Avec plaisir merci à vous ",
+            "updateTime": "2026-07-05T20:00:10.000Z",
+            "reviewReplyState": "APPROVED"
+          },
+          "name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/Ci9DQUlRQUNvZENodHljRjlvT205U1N6aFRkVGQzZUdaNlpHdFVhRTQ1WlZoSlIyYxAB"
+        },
+        {
+          "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tSVlJGaEdVMVJXY2tWSlZXZE1OelZ0VlZsWldFRRAB",
+          "reviewer": {
+            "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUqJ6tCpXqk_WHEJqIXZwYg64vjRAqHk2q51UYD1GK2Rfk21d-sWA=s1920-c-rp-mo-br100",
+            "displayName": "Mathilde Vivancos"
+          },
+          "starRating": "FIVE",
+          "createTime": "2026-07-05T14:06:18.888Z",
+          "updateTime": "2026-07-05T14:06:18.888Z",
+          "comment": "Je recommande à 1000% Gianni qui est juste super professionnel et profondément gentil et bienveillant.\nIl m'a rendu mon PC comme neuf, vraiment merci à toi !\nVous pouvez y aller les yeux fermés, faites moi confiance.\nIl faut soutenir les personnes comme Gianni, c'est à dire passionnées, sérieuses et surtout très compétentes !\nMerci encore !!!",
+          "reviewReply": {
+            "comment": "Merci ce commentaire me touche énormément 😊",
+            "updateTime": "2026-07-05T14:17:33.000Z",
+            "reviewReplyState": "APPROVED"
+          },
+          "name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSVlJGaEdVMVJXY2tWSlZXZE1OelZ0VlZsWldFRRAB"
+        },
+        {
+          "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25SRU5tVkZaekJKZGpWaFpWRkdPVEJYVjNCcFdsRRAB",
+          "reviewer": {
+            "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVhOFehVB5ktMvkSOuW4iUgUX9o6YnCfY68EnL6obGv23atS2FY1w=s1920-c-rp-mo-ba12-br100",
+            "displayName": "Jordi Pons"
+          },
+          "starRating": "FIVE",
+          "createTime": "2026-07-03T07:57:06.537Z",
+          "updateTime": "2026-07-03T07:57:06.537Z",
+          "comment": "KCS Marseille a su poser le bon diagnostic (gratuitement) suite à ma venue pour un pc qui ne s’allumait plus ! Je recommande grandement",
+          "reviewReply": {
+            "comment": "Merci, c’est normal!\nChez KCS le diagnostic des PC portable sera toujours gratuit !",
+            "updateTime": "2026-07-03T08:22:09.000Z",
+            "reviewReplyState": "APPROVED"
+          },
+          "name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SRU5tVkZaekJKZGpWaFpWRkdPVEJYVjNCcFdsRRAB"
+        },
+        {
+          "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xkM1luQmllV2xWWjFsclRHbzFMWGx0T1VFek1XYxAB",
+          "reviewer": {
+            "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWBLHD8cZCfll7RakB55pG5OpQy7NQW6poxwqakUuBe5PdydFhd=s1920-c-rp-mo-br100",
+            "displayName": "Lejla Šubo"
+          },
+          "starRating": "FIVE",
+          "createTime": "2026-07-03T07:19:05.807Z",
+          "updateTime": "2026-07-03T07:19:05.807Z",
+          "comment": "Je recommande vivement KCS !!\nAprès un piratage de mon ordinateur, l’intervention a été effectuée avec une grande rapidité et beaucoup d’efficacité. Gianni a pris le temps pour me conseiller et répondre à toutes mes questions. Le professionnalisme, la réactivité et la qualité de la prise en charge m’ont vraiment rassurée dans une situation très stressante. Merci Gianni encore pour cet excellent travail ! 🙏",
+          "reviewReply": {
+            "comment": "Avec plaisir, merci à vous pour ce gentil commentaire !",
+            "updateTime": "2026-07-03T07:42:32.000Z",
+            "reviewReplyState": "APPROVED"
+          },
+          "name": "accounts/103937781364880206350/locations/8070097838420155723/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkM1luQmllV2xWWjFsclRHbzFMWGx0T1VFek1XYxAB"
+        },
+        {
           "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21jdGFXUm9aMnBNZG5FMFMzRXdSMlpZWld4NWVuYxAB",
           "reviewer": {
             "profilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKkIDIAznrNAP1mlC8Q3OckWLXToYUIln-OF6uzMuN05lF3Xw=s1920-c-rp-mo-br100",
@@ -5822,7 +5957,7 @@
         }
       ],
       "averageRating": 5,
-      "totalReviewCount": 343
+      "totalReviewCount": 351
     }
   }
 ]
